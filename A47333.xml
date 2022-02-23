@@ -1,0 +1,282 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Of fasting a sermon preached before the Queen at White-hall, on May 23, MDCXCIV, being a day of publick humiliation / by Richard, Lord Bishop of Bath and Wells ; published by Her Majesties special command.</title>
+            <author>Kidder, Richard, 1633-1703.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 39 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47333</idno>
+            <idno type="STC">Wing K408</idno>
+            <idno type="STC">Wing K416A</idno>
+            <idno type="STC">ESTC R16672</idno>
+            <idno type="EEBO-CITATION">11858488</idno>
+            <idno type="OCLC">ocm 11858488</idno>
+            <idno type="VID">49973</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A47333)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49973)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 499:18 or 1741:39)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Of fasting a sermon preached before the Queen at White-hall, on May 23, MDCXCIV, being a day of publick humiliation / by Richard, Lord Bishop of Bath and Wells ; published by Her Majesties special command.</title>
+                  <author>Kidder, Richard, 1633-1703.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J.H. for Brabazon Aylmer ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXCIV [1694]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Half-title: The Bishop of Bath and Wells's fast-day sermon before the Queen at White-Hall on the 23d of May, 1694.</note>
+                  <note>Running title: A fast-sermon preached before the Queen at White-Hall.</note>
+                  <note>This item appears at reel 499:18 as Wing K408, and at reel 1741:39 as Wing (2nd ed.) K416A.</note>
+                  <note>Reproduction of originals in Bristol Public Library, Bristol (England), and in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Zechariah VII, 5 --  Sermons.</term>
+               <term>Fasting --  Sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+               <term>Fast-day sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:49973:1" rendition="simple:additions"/>
+            <p>THE Biſhop of <hi>BATH</hi> and <hi>WELLS</hi>'s FAST-SERMON Before the QUEEN At <hi>WHITE-HALL,</hi> On the 23<hi rend="sup">d</hi> of <hi>May,</hi> 1694.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:49973:2"/>
+            <pb n="1" facs="tcp:49973:2"/>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Zechariah VII. 5.</hi>
+                  </bibl>
+                  <p>Speak unto all the people of the land, and to the prieſts, ſaying, When ye faſted and mourned in the fifth and ſeventh month, even thoſe ſeventy years, did ye at all faſt unto me, even unto me?</p>
+               </q>
+            </epigraph>
+            <p>THeſe Words are an anſwer to the queſti<g ref="char:EOLhyphen"/>on in the 3d. Verſe, <hi>Should I weep in the fifth month, ſeparating my ſelf, as I have done theſe ſo many years?</hi> To this the Prophet is commanded to reply in the Words of my Text; <hi>When ye faſted,</hi> &amp;c.</p>
+            <p>I ſhall premiſe ſomething concerning the Faſts which obtained among the <hi>Jews,</hi> for the better underſtanding the Words of my Text.</p>
+            <p>Among the <hi>Jews</hi> there was but one Faſt in a year Commanded in the Law of <hi>Moſes;</hi> And that was the Day of Expiation,<note place="margin">Levit. 16.29. ch. 23.29, 30. Numb. 29.7.</note> on the tenth Day of the ſeventh Month: Then they were obliged <hi>to afflict their Souls, and to do no work,</hi> un<g ref="char:EOLhyphen"/>der the ſevereſt penalty. So that it was at once to be obſerved as a <hi>Sabbath,</hi> and a <hi>Faſt;</hi> a day of <hi>Abſtinence,</hi> and of <hi>Reſt.</hi> And hence 'tis called
+<pb n="2" facs="tcp:49973:3"/>not onely a <hi>Faſt,</hi>
+               <note place="margin">Levit. 16.31. &amp; ch. 23.32. <hi>v.</hi> Thorndike <hi>of Religious Aſſembl. p.</hi> 10.</note> but a <hi>Sabbath</hi> of Reſt. A very ſolemn time, and which the <hi>Jews</hi> obſerved as ſuch. But what-ever their outward Expreſſions of Devotion were, they were Hypocrites in the mean time. And their Hypocriſie is laid open by <hi>Iſaiah,</hi> chap. 58. That Chapter I underſtand of this Faſt, even thoſe words, <hi>v.</hi> 13. <hi>If thou turn away thy foot from the Sabbath, from doing thy pleaſure on my Holy day, and call the Sabbath a de<g ref="char:EOLhyphen"/>light, the Holy of the Lord,</hi> &amp;c. By <hi>Sabbath</hi> here, we have no cauſe to underſtand the <hi>Jews</hi> week<g ref="char:EOLhyphen"/>ly Sabbath;<note place="margin">
+                  <hi>Selden</hi> de jure Naturali, l. <hi>III.</hi> c. <hi>15.</hi>
+               </note> for the Prophet in the foregoing Words ſpeaks of their Faſting; and the Day of Expiation was then the onely ſtated Faſt, and is called from its firſt Inſtitution a <hi>Sabbath,</hi> as hath been obſerved before:<note place="margin">Kimchi &amp; A<g ref="char:EOLhyphen"/>bravenel <hi>in</hi> Iſa. 58.13.</note> 
+               <hi>Kimchi</hi> confeſſeth alſo that the <hi>Rabbins</hi> underſtood this place of the Day of Expiation; and <hi>Abravenel</hi> cites the <hi>Vajikra Rabbah,</hi> expreſsly interpreting the <hi>Holy of the Lord</hi> of the ſame day.</p>
+            <p>St. <hi>Luke</hi> is obſerved to call this Day of Ex<g ref="char:EOLhyphen"/>piation the <hi>Faſt:</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, Act. 27.9.</note> 
+               <hi>When ſailing was now dangerous, becauſe the Faſt was already paſt:</hi> That is, it was after the tenth of the ſeventh Month, a time of year when there was more danger of Sailing than in the earlier time of the year.</p>
+            <pb n="3" facs="tcp:49973:3"/>
+            <p>Beſides this great Faſt, there were others in uſe among the <hi>Jews</hi> in After-times; There were who faſted two days in a Week;<note place="margin">Luk. 18.</note> There were <hi>private</hi> and <hi>voluntary</hi> Faſts which pious Perſons took upon themſelves; <hi>Occaſional</hi> ones appointed upon particular Emergencies. Beſides theſe, they had their <hi>four times</hi> a year; of which there is mention in this Prophet. The Faſt of the <hi>fourth,</hi>
+               <note place="margin">Zech. 8.19.</note> 
+               <hi>fifth, ſeventh</hi> and <hi>tenth</hi> Month.</p>
+            <p>That of the <hi>fourth</hi> Month was upon occaſion that in that Month <hi>Jeruſalem</hi> was broken up by the <hi>Chaldees.</hi>
+               <note place="margin">Jer. 39.2. Jer. 52.6, 7.</note> This <hi>Kimchi</hi> calls the beginning of the Deſtruction of the Holy City.<note place="margin">Kimchi <hi>in</hi> E<g ref="char:EOLhyphen"/>zek. c. 1. v. 1.</note> This was the true ground of this Faſt,<note place="margin">Abravenel <hi>in</hi> 2 Reg. c. 25.</note> what-ever the <hi>Jews</hi> add concerning the breaking of the Tables of Stone, ceaſing of the daily Sacrifice, and burning the Law, ſetting up an Idol in the Temple, <hi>&amp;c.</hi>
+            </p>
+            <p>That of the <hi>fifth</hi> Month was in memory of the burning of the Temple by the Men of <hi>Baby<g ref="char:EOLhyphen"/>lon,</hi>
+               <note place="margin">Jer. 52.12, 13.</note> which happened in that Month.<note place="margin">Maimon. H. Taan. c. 5.</note> The <hi>Jews</hi> do indeed mention ſome other ſad things which happened to them in this Month: That then it was decreed that their Fore-fathers in the Wilder<g ref="char:EOLhyphen"/>neſs ſhould not enter into <hi>Canaan:</hi> That the Temple was deſtroyed the ſecond time, that the City of <hi>Bitter</hi> was taken, <hi>&amp;c.</hi>
+            </p>
+            <pb n="4" facs="tcp:49973:4"/>
+            <p>That of the <hi>ſeventh</hi> Month was in memory of the Slaughter of <hi>Gedaliah,</hi>
+               <note place="margin">Jer. 41.1, 2.</note> which happened in this Month.</p>
+            <p>That of the <hi>tenth</hi> Month was in memory of that Siege that was ſo fatal to them, whereof we have mention, (2 <hi>King.</hi> 25.1. <hi>Jer.</hi> 52.4. <hi>chap.</hi> 39.1.) In this Month alſo came the ſad news to <hi>Ezekiel,</hi> that the City was ſmitten, <hi>Ezek.</hi> 33.21.</p>
+            <p>By all this it appears, if we follow the Scrip<g ref="char:EOLhyphen"/>ture-grounds of theſe Faſts; That they were kept in memory of the <hi>Jews.</hi> Sufferings from the <hi>Ba<g ref="char:EOLhyphen"/>bylonians,</hi> and upon occaſion of the Evils which happened to them about the time of that Cap<g ref="char:EOLhyphen"/>tivity. They who were Captives in <hi>Babylon,</hi> are now returned to their City, and Building of their Temple: Their Captivity is expired; and now the queſtion is, Whether or not they ſhall need to Faſt any longer? <hi>Should I weep in the fifth month, ſeparating my ſelf, as I have done ſo many years?</hi> The queſtion will admit of ſome diſ<g ref="char:EOLhyphen"/>pute.</p>
+            <p>On the one ſide it might be ſaid: Why ſhould we Faſt, when the reaſon of our Faſting is cea<g ref="char:EOLhyphen"/>ſed? We Faſted for the Burning of our City and Temple; we are now returned to that deſolate place, and 'tis in great meaſure raiſed from its
+<pb n="5" facs="tcp:49973:4"/>Ruins: 'Tis now a time to rejoice, and not to mourn. 'Twas fit by the Rivers of <hi>Babylon</hi> to ſit down and weep when we remembred <hi>Zion.</hi> Well did it become us there to hang our Harps upon the Willows; That ſtrange Land was no place to ſing the Lord's Song. He that then called for Mourning, now calls for Joy: He hath turned back the Captivity of <hi>Zion,</hi> and now our Mouth is filled with laughter, and our Tongue with ſinging: The Lord hath done great things for us, whereof we are glad.</p>
+            <p>On the other hand they might plead for their Faſting thus: We ought not ſo ſoon to forget the Evils we have ſuffered, much leſs the Sins which brought them upon us. We are return<g ref="char:EOLhyphen"/>ed, but we are but newly returned. Our Tem<g ref="char:EOLhyphen"/>ple is not finiſhed; or were it finiſhed, it holds no proportion to that which was deſtroyed: We are amidſt our Enemies, and not purged from our Sins. This Temple is like to want many things which the former had; and we come ſhort of what we ſhould be. We have ſtill much to do. Faſting is a great inſtrument of Piety; and the Houſe of Mourning will be more in<g ref="char:EOLhyphen"/>ſtructive, and more ſafe, than that of Feaſting.</p>
+            <p>The queſtion is, Whether or not they ſhall need Faſt any longer? They conſult the Prieſts and
+<pb n="6" facs="tcp:49973:5"/>the Prophets, who might be preſumed moſt likely to inform them. The Prophet is inſtructed to give them an anſwer; and ſuch an one it is, as is very inſtructive to us; and he begins to do it in the Words of my Text, ſaying, <hi>When ye faſted,</hi> &amp;c.</p>
+            <p>
+               <hi>q. d.</hi> When ye Faſted and Mourned, was it to my advantage, or for my ſake, that ye did it? Ye Faſted indeed for Seventy years together; but as you took it upon your ſelves at firſt, ſo it was not upon its own account any pleaſure to me: For I am not pleaſed with bare Abſti<g ref="char:EOLhyphen"/>nence, any more than with Eating: Your Obe<g ref="char:EOLhyphen"/>dience is acceptable, not your mere Faſting: This will turn your Faſts into Feaſts. <hi>Thus ſaith the Lord of Hoſts,</hi>
+               <note place="margin">Zechar. 8.19.</note> 
+               <hi>The faſt of the fourth month, and the faſt of the fifth, and the faſt of the ſeventh, and the faſt of the tenth, ſhall be to the houſe of Ju<g ref="char:EOLhyphen"/>dah joy and gladneſs.</hi> But the way of turning theſe Faſts into Feaſts, may be learnt from what fol<g ref="char:EOLhyphen"/>lows: <hi>Therefore love the Truth and Peace.</hi>
+            </p>
+            <p>I ſhall, for my more orderly proceeding, ſhew,</p>
+            <p>Firſt, That mere Abſtinence, or Faſting, is not pleaſing to God.</p>
+            <pb n="7" facs="tcp:49973:5"/>
+            <p>Secondly, I ſhall ſhew the right uſe of Faſt<g ref="char:EOLhyphen"/>ing.</p>
+            <p>Thirdly, I ſhall give ſome Rules for the bet<g ref="char:EOLhyphen"/>ter diſcharge of this Duty.</p>
+            <p>Fourthly, I ſhall apply it to our preſent caſe.</p>
+            <p n="1">I. That mere Abſtinence or Faſting is not pleaſing to God. The <hi>Jews</hi> had Faſted without Fruit. God is not obliged by Faſting alone. Many have Faſted to Evil purpoſes, others to none. We have in this Kingdom kept many publick Faſts: Many times it had been as well, and ſometimes perhaps it had been better that we had eat and drank. Faſting is but an In<g ref="char:EOLhyphen"/>ſtrument, and may be uſed well or ill. It does not of it ſelf commend us to God; It ſome<g ref="char:EOLhyphen"/>times renders us more deteſtable. Many have Faſted to themſelves, and not unto God. <hi>Jeze<g ref="char:EOLhyphen"/>bel</hi> proclaimed a Faſt, when ſhe deſigned her Neighbour's Vineyard; and ſome have Faſted that they might be ſeen of Men. A Man may Faſt out of Covetouſneſs; or Faſt for one Meal, that he may make the more room for the next. A Man may Faſt out of Superſtition, and lay a ſtreſs upon that, upon which God hath laid none. <hi>Wherefore have we faſted,</hi>
+               <note place="margin">Iſa. 58.3.</note> (ſay they) <hi>and thou ſeeſt not? Wherefore have we afflicted our ſoul, and thou
+<pb n="8" facs="tcp:49973:6"/>takeſt no knowledge?</hi> God regarded not their Faſt<g ref="char:EOLhyphen"/>ing, that was not ſufficient to commend them to Him: He does not envy us the uſe of his Creatures; not grudge us our Meat and Drink. We are vain if we think bare Faſting will pro<g ref="char:EOLhyphen"/>cure his favour. <hi>Did you at all faſt unto me? and when ye did eat, and when ye did drink, did not ye eat for your ſelves, and drink for your ſelves?</hi> (v. 6.) Though we ſeparate our ſelves from other Plea<g ref="char:EOLhyphen"/>ſures, as the <hi>Jews</hi> did in their Faſts, (<hi>v.</hi> 3.) who were wont at ſuch times to abſtain from Bathing and Muſick, and other Pleaſures: Though we ſhould not onely abſtain, but chaſtiſe our Bo<g ref="char:EOLhyphen"/>dies; yet may all this be in vain, and to no purpoſe, and unacceptable to God. This ap<g ref="char:EOLhyphen"/>pears from my Text, and from <hi>Iſa.</hi> 58.</p>
+            <p>For we may abſtain from Meat, and not from Sin: Drink no Wine, and be drunk with Paſſi<g ref="char:EOLhyphen"/>on, Pride, or Revenge: Forbear a Meal, and glut our ſelves with Malice, Luſt and Envy: Faſt one Meal, and be intemperate the next: Pinch our Bodies, and over-charge our Souls: 'Twas our Saviour's advice; <hi>Take heed to your ſelves, leſt at any time your hearts be over-charged with ſurfeiting and drunkenneſs,</hi>
+               <note place="margin">Luk. 21.34.</note> 
+               <hi>and cares of this life.</hi> Cares of this life will over-charge us as well as Meats and Drinks.</p>
+            <pb n="9" facs="tcp:49973:6"/>
+            <p>This is not ſaid to diſcourage you from Faſt<g ref="char:EOLhyphen"/>ing; what-ever it be alone, 'tis good in con<g ref="char:EOLhyphen"/>junction: 'Tis not Godlineſs, but 'tis a good In<g ref="char:EOLhyphen"/>ſtrument and Companion of it. 'Tis often con<g ref="char:EOLhyphen"/>venient, and ſometimes neceſſary. It ſerves the Purpoſes of Religion when 'tis uſed with care and prudence. I doubt not but 'tis a Duty, and very advantageous alſo. Nor is it hard to prove it ſo to be. It hath the approbation of God, and ſuffrages of Holy Men, and recommendation of the Holy Writ. 'Twas practiced by Ancient Chriſtians, joined with Prayer and Alms, of the earlieſt uſe in the Chriſtian Church, and of uſe among the devout before Chriſtianity. It hath a Reward annexed to it, and its Rules aſſigned, and its particular Energy (when joined with de<g ref="char:EOLhyphen"/>vout Prayer) allowed. 'Twas the <hi>Phariſees</hi> Boaſt<g ref="char:EOLhyphen"/>ing, not Faſting, that was reproved. 'Tis ſome<g ref="char:EOLhyphen"/>times as needfull as Phyſick; and when well uſed, 'tis then always more ſafe. But then it muſt be taken as Phyſick with good advice and regiment. If it do any hurt, 'tis where 'tis not well managed.</p>
+            <p n="2">II. I ſhall ſhew the right uſe of Faſting: To what purpoſe 'tis to be uſed, and what the great Intentions of it are: The want of heeding this
+<pb n="10" facs="tcp:49973:7"/>hath been very pernicious to Mankind: Hence it is that we have loſt our labour, in not ha<g ref="char:EOLhyphen"/>ving Faſted unto God. <hi>Did ye faſt at all unto me,</hi> &amp;c?</p>
+            <p n="1">1. It is very uſefull when it is uſed as an act of Revenge upon our ſelves for our Sins paſt: Then 'tis an act of Repentance, and a teſtimony of the hatred we bear to our Sins. This is rec<g ref="char:EOLhyphen"/>koned among the Effects of a godly Sorrow: <hi>For behold,</hi>
+               <note place="margin">2 Cor. 7.11.</note> 
+               <hi>this ſelf-ſame thing that ye ſorrowed after a godly ſort, what carefulneſs it wrought in you, yea, what clearing of your ſelves, yea, what indignation, yea, what fear, yea, what vehement deſire, yea, what zeal, yea, what revenge.</hi> He that is a true Peni<g ref="char:EOLhyphen"/>tent, is a ſorrowfull Man; and as a teſtimony of that, he denies himſelf of what was otherwiſe lawfull, becauſe he had indulged himſelf in what was forbidden. It well becomes us to chaſtiſe our ſelves by Abſtinence for our paſt intempe<g ref="char:EOLhyphen"/>rance; For our Pride and Luſt by Severities and Humiliations.</p>
+            <p n="2">2. 'Tis uſefull when 'tis uſed as an inſtru<g ref="char:EOLhyphen"/>ment of Mortification of our irregular Deſires and Appetites, when 'tis <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>i. e.</hi> deſtructive of our Sin. It hath a great tendency that way, as it with-draws ſuccors from our ſen<g ref="char:EOLhyphen"/>ſual deſires. Our Body is an unruly beaſt; if
+<pb n="11" facs="tcp:49973:7"/>pampered, and too highly fed, it will endanger its rider. Plenty hurts us, and our Souls ſtarve under fulneſs of bread.<note place="margin">Jer. 5.7.</note> 
+               <hi>Thy children have forſa<g ref="char:EOLhyphen"/>ken me, and ſworn by them that are no Gods: When I had fed them to the full, they then committed Adul<g ref="char:EOLhyphen"/>tery, and aſſembled themſelves by troops in the harlot's houſes. Jeſurun waxed fat, and kicked:</hi>
+               <note place="margin">Deut. 32.15, 16.</note> 
+               <hi>thou art waxen fat, thou art grown thick, thou art covered with fatneſs: Then he forſook God which made him, and lightly eſteemed the Rock of his ſalvation: They provoked him to jealouſie with ſtrange Gods.</hi> There are not many Men that can digeſt Plenty and Fulneſs. This is frequently the Parent of Luſt and Senſuality. And hence we eaſily lapſe into a brutiſh and ſenſual life. Here Faſting is a good inſtrument of Religion, as it with-draws the fewel of our Luſts, and the nouriſhment of our Vices. As in a Feaver, or great <hi>Plethora,</hi> a thin Diet is adviſable, ſo a conſtant Temperance and fre<g ref="char:EOLhyphen"/>quent Faſting are in the caſe before us.<note place="margin">
+                  <hi>Hieron.</hi> ad ne<g ref="char:EOLhyphen"/>pot. de vita Cleric.</note> 
+               <hi>Pinguis venter non gignit mentem tenuem.</hi> Fulneſs is ge<g ref="char:EOLhyphen"/>nerally a wrong to our better part.<note place="margin">Ego Aſelle fa<g ref="char:EOLhyphen"/>ciam ut non calcitres.</note> S. <hi>Hierom</hi> tells of <hi>Hilarion,</hi> that when he found his Body encline him to folly, he ſtruck upon his Breaſt,<note place="margin">Hieron. <hi>in vie.</hi> Hilarion.</note> and cried, That he would <hi>take care that the Aſs ſhould kick no longer;</hi> and to that purpoſe betook himſelf to frequent Faſtings and hard Labours.
+<pb n="12" facs="tcp:49973:8"/>
+               <hi>I keep under my body,</hi>
+               <note place="margin">1 Cor. 9.27.</note> 
+               <hi>and bring it unto ſubjection,</hi> ſays St. <hi>Paul.</hi> We are in great danger from Ful<g ref="char:EOLhyphen"/>neſs, a ſpare and thin Diet is generally the ſafer ſide; and Faſting is ſometimes needfull. Fulneſs is the Parent of our Vices.<note place="margin">Exod. 32.6.</note> 
+               <hi>The people ſat down to eat and drink, and roſe up to play.</hi> Our firſt Pa<g ref="char:EOLhyphen"/>rents rendred themſelves and us miſerable by eating.<note place="margin">
+                  <hi>Tertull.</hi> de je<g ref="char:EOLhyphen"/>jun.</note> 
+               <hi>Salutem gula vendidit.</hi> Sin and Death came this way into the World. St. <hi>Baſil</hi> obſerves, that whereas <hi>Moſes</hi> Faſted at the giving of the Law, and ſo Faſting uſher'd it in; yet the Ta<g ref="char:EOLhyphen"/>bles that were written by the Finger of God, and received by Faſting, were broken by Drunken<g ref="char:EOLhyphen"/>neſs. They ſat down to eat and drink, and roſe up to play.</p>
+            <p>I ſhall not need to tell you the miſchiefs of feaſting and pampering our Bodies: It greatly endangers our Souls. When the Children of <hi>Job</hi> feaſted from houſe to houſe, the good Man (knowing how prone Men were in that caſe to exceed) <hi>ſent and ſanctified them,</hi>
+               <note place="margin">Job 1.5.</note> 
+               <hi>and roſe up early in the morning, and offered burnt-offerings according to the number of them all: For Job ſaid, It may be that my ſons have ſinned, and curſed God in their hearts.</hi> 'Tis often ſo, that great Feaſting is at<g ref="char:EOLhyphen"/>tended with follies and miſchiefs; nor were it hard to produce many Examples to this purpoſe:
+<pb n="13" facs="tcp:49973:8"/>
+               <hi>Solomon</hi> preferrs the Houſe of Mourning before that of Feaſting.<note place="margin">Eccl. 7.2, 3, 4.</note>
+            </p>
+            <p n="3">3. Faſting is a good help to Prayer. Prayer and Faſting have a mighty force. The moſt obſtinate Evil Spirit, that gives way to no other methods, is yet caſt out by Prayer and Faſting. The one of theſe takes us off from the Crea<g ref="char:EOLhyphen"/>ture, the other brings us nearer unto God. We pray but faintly when we are fed to the full. We ſeldom ſerve God well upon plentifull Entertain<g ref="char:EOLhyphen"/>ments. Our Minds are moſt at liberty, when our Bodies are empty. No wonder they are joined together in Holy Scripture. Faſting helps to wing our Devotions; We are then fitteſt to worſhip God with Devotion when we are Faſt<g ref="char:EOLhyphen"/>ing. <hi>Aaron</hi> and his Sons were forbidden Wine and ſtrong drink when they went into the Ta<g ref="char:EOLhyphen"/>bernacle.<note place="margin">Levit. 10.9.</note> The publick Service of the Morning, under the Temple, was wont to be performed Faſting. They were not wont to drink till that was over: That did not begin till the third hour of the day. St. <hi>Peter</hi> argued ſtrongly enough to thoſe who knew this practice.<note place="margin">Act. 11.15.</note> 
+               <hi>Theſe are not drunken, as ye ſuppoſe, ſeeing it is but the third hour of the day.</hi>
+            </p>
+            <p>Thus have I given a ſhort, but a true account of the uſefulneſs of Faſting: Theſe are the true
+<pb n="14" facs="tcp:49973:9"/>Uſes of Faſting, both publick and private: If it miniſter to none of theſe Ends, 'twill be to no purpoſe, and we might as well have eaten and drank. If it advance us not in Piety and real Goodneſs; if it ſerve not to chaſtiſe a Sin com<g ref="char:EOLhyphen"/>mitted, nor to prevent one for the future; if it do not help us in our Prayers, and bring us nearer to God, and wean us from the Creature, it can ſerve no wiſe purpoſe. We have need e<g ref="char:EOLhyphen"/>nough to Faſt, if we duly conſider what we are, and what we have been. God hath called us to Mourning very often, and very loudly. He hath viſited us with the Sword, and Fire, and Peſti<g ref="char:EOLhyphen"/>lence.<note place="margin">Amos 4.10.</note> 
+               <hi>I have over-thrown ſome of you, as God over<g ref="char:EOLhyphen"/>threw Sodom and Gomorrha, and ye were as a fire<g ref="char:EOLhyphen"/>brand plucked out of the burning.</hi> — I wiſh I could not with the Prophet go farther, and add what follows; <hi>Yet have ye not returned unto me, ſaith the Lord.</hi> 'Tis true, we have kept ſome Faſting-days (and we now begin to be weary of that too,) but what elſe have we done?</p>
+            <p>Are we any better than we were before? Do we love God more fervently, and more heartily love one another? Our City hath been burnt in<g ref="char:EOLhyphen"/>deed, but not our Vices. They are intire, and not conſumed. We have faſted, but have we amended alſo? Are our Sins weakened, and our
+<pb n="15" facs="tcp:49973:9"/>Devotions enflamed? Is God better ſerved a<g ref="char:EOLhyphen"/>mong us? Is there more Humility, Charity and Brotherly-kindneſs to be found amongſt us? <hi>Should ye not hear the words which the Lord hath cried by the former Prophets, when Jeruſalem was in<g ref="char:EOLhyphen"/>habited and in proſperity,</hi> &amp;c. ſays this Prophet, <hi>v.</hi> 7. What that was which the former Prophets requi<g ref="char:EOLhyphen"/>red, you may learn from <hi>v.</hi> 9. <hi>Execute true judgment, and ſhew mercy and compaſſions every man to his bro<g ref="char:EOLhyphen"/>ther: And oppreſs not the widow and the fatherleſs, the ſtranger nor the poor, and let none of you imagin evil againſt his brother in your heart.</hi> We have Faſted often, but where is our Repentance?<note place="margin">Maimon. H. Taan.</note> We have often confeſſed our Sins, but who hath forſaken them? It was the Cuſtom among the <hi>Jews,</hi> upon the day of their publick Faſting, to procure an ancient and wiſe Man to recite the words of Hu<g ref="char:EOLhyphen"/>miliation: Among other things, he was wont to depreciate mere Abſtinence, or the outward ſhew of Humiliation. He told them that it was ſaid of the <hi>Ninevites,</hi> not that God ſaw their Sack<g ref="char:EOLhyphen"/>cloth and Faſting, but that <hi>He ſaw their Work.</hi> So it is God is pleaſed with our Repentance, not our bare Abſtinence. Faſting is, <hi>Adjumentum non perfectio pietatis:</hi> 'Tis a good help to Godlineſs, not Godlineſs it ſelf.</p>
+            <pb n="16" facs="tcp:49973:10"/>
+            <p n="3">III. I ſhall proceed to give ſome Rules for the better diſcharge of this Duty.</p>
+            <p n="1">1. Let us take care that we do it with great humility of mind, and that we do by no means give way to a proud thought. Do not vaunt thy ſelf,<note place="margin">Luk. 17.</note> or contemn and deſpiſe thy Brother, as the Proud <hi>Phariſee</hi> did. Thou haſt need of Faſting, or no need. If no need, why doeſt thou boaſt of doing that which God requires not, and which ſerves no wiſe purpoſe? If thou needeſt it, that Conſideration ought to humble thee: No Man is proud of taking Phyſick, and Faſting amounts to no more. 'Tis Medicinal, and deſign'd to cure us of ſome Diſeaſe. We are commonly troubled that we need a Medi<g ref="char:EOLhyphen"/>cine, no Man is proud that he makes uſe of one. <hi>Sanctifie a Faſt,</hi>
+               <note place="margin">Joel 11.15. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, LXXII.</note> 
+               <hi>call a ſolemn Aſſembly.</hi> Such an Aſſembly is deſigned for a publick Cure, and ſpeaks an Epidemical diſeaſe. Here's no colour for Pride and Oſtentation. We may as well be proud of Plaiſters upon our Sores, as of Faſting. And yet this Vanity we are liable to. Our Lord gives us Caution:<note place="margin">Matt. 6.17, 18.</note> 
+               <hi>When thou faſteſt, anoint thy head, and waſh thy face, that thou appear not unto men to faſt.</hi> Bare Abſtinence commends us not
+<pb n="17" facs="tcp:49973:10"/>to God; and therefore we have no cauſe on that account to boaſt. 'Twill be no comfort to us to undergo the <hi>labour,</hi> and loſe the <hi>reward</hi> of Faſting. Let us not, when we Faſt, deſpiſe him that Eats. Let us not value our ſelves by it. Our Pride will do us more harm, than our Abſtinence will do us good. Our great End of Faſting is to kill our Luſts; and if we let our Pride grow, we loſe our great End.</p>
+            <p n="2">2. Let it be with Charity, and Expreſſions of kindneſs to our Brother. There's a Saying among the <hi>Jews,</hi> that <hi>the beſt of a Faſt is Alms.</hi>
+               <note place="margin">Iſa. 58.6, 7.</note> In this we are ſure we do well. And it be<g ref="char:EOLhyphen"/>comes us, when we implore God's Mercy, to ſhew Mercy to one another. <hi>Is not this the Faſt that I have choſen? To loſe the bands of wickedneſs, to undo the heavy burdens, and to let the oppreſſed go free, and that ye break every yoke? Is it not to deal thy bread to the hungry, and that thou bring the poor that are caſt out to thy houſe? When thou ſeeſt the naked, that thou cover him, and that thou hide not thy ſelf from thine own fleſh?</hi> It is good advice, that <hi>what we deny our ſelves,</hi>
+               <note place="margin">Quod ventri ſubtrahitur pauperi de<g ref="char:EOLhyphen"/>tur.</note> 
+               <hi>we ſhould give to the poor.</hi> What we ſpare, let us beſtow upon him that needs. Let us abſtain, that we may ſave ſomething to give. The Meal that we ſpare,
+<pb n="18" facs="tcp:49973:11"/>let us give to the Poor. When we Faſt, let us lay by ſomething to feed others with. We read, that when <hi>Tarentum</hi> was beſieged by the <hi>Romans,</hi> that the Neighbours of <hi>Rhegium</hi> Faſted every tenth day, and ſent to the beſieged what they ſhould otherwiſe have eaten themſelves. A rare Example in the Heathens, and that which ſerves for a juſt reproach to many titular Chriſtians. Let us deny our ſelves, that we may help others. Our Temperance would afford a great provi<g ref="char:EOLhyphen"/>ſion for the hungry, and our Faſting much more. Faſting will not avail without Charity. Faſting, without Alms, is like a Lamp without Oyl. When we afflict our ſelves, let us be ſure to be mercifull to our Brother.</p>
+            <p n="3">3. Let it be attended with fervent Prayers to God. 'Twill not ſerve our turn that we abſtain from the Creature, unleſs we turn to our Crea<g ref="char:EOLhyphen"/>tor. Theſe muſt be joined; for that is one great End of Faſting, to diſpoſe us for our Pray<g ref="char:EOLhyphen"/>ers.<note place="margin">Matt. 6. Luk. 11.37. Matt. 17.21.</note> Our Saviour puts them cloſe together in his Sermon on the Mount; They are joined to<g ref="char:EOLhyphen"/>gether in the Character of the devout Widow, and in conjunction are of mighty force.</p>
+            <p n="4">4. Our Faſting muſt be attended with a con<g ref="char:EOLhyphen"/>ſtant Sobriety and Temperance. He that Faſts
+<pb n="19" facs="tcp:49973:11"/>one day, and is intemperate the next; He whoſe Faſt is a Prologue or Epilogue to an Exceſs, Faſts to no good purpoſe at all. A conſtant Temperance is indiſpenſably neceſſary; here all Men are obliged, and at all times. This cannot be ſaid of Faſting. Beſides, we ſhould learn Temperance at leaſt by Faſting. Learn to deny our Appetites, when they exceed the bounds of Reaſon and Religion. 'Tis a good uſe of Faſt<g ref="char:EOLhyphen"/>ing to inure our ſelves by it to a ſtrict Tem<g ref="char:EOLhyphen"/>perance. 'Tis a fooliſh and brutiſh thing to make way for a Faſt by a luxurious Carnival, and to cloſe it with an exceſſive Feaſt.</p>
+            <p n="5">5. Our Faſting muſt ever be accompanied with an holy Life. God is no more pleaſed with the Faſting, than with the Prayers of a wicked Man. We muſt not onely abſtain from Meat and Drink, but from Pride and Peeviſh<g ref="char:EOLhyphen"/>neſs, Wrath and Bitterneſs, Covetouſneſs and Oppreſſion; a conceit of Our ſelves, and a con<g ref="char:EOLhyphen"/>tempt of our Brother.</p>
+            <p n="6">6. We muſt take care that we do not exceed in Faſting, to the deſtruction of our Health. There's no great danger that many will do this: Yet ſome there are, and many there have been, to whom this advice is ſeaſonable. We read
+<pb n="20" facs="tcp:49973:12"/>of many among the Ancients that went very far; That faſted to Paleneſs and Feebleneſs, ab<g ref="char:EOLhyphen"/>ſtained from all Fleſh, and all Wine; That faſt<g ref="char:EOLhyphen"/>ed to great lengths, and under great weakneſs of Body;<note place="margin">Sulpit. Sever. <hi>Dialog.</hi>
+               </note> Of ſome that lived upon the Roots of Trees, and of one whom the Sun never ſaw eating. I fear we are run into the other ex<g ref="char:EOLhyphen"/>treme, and inſtead of over-faſting our ſelves, we indulge our ſelves too much. But thoſe who are prone to too great an Abſtinence, ſhould re<g ref="char:EOLhyphen"/>member that God will have Mercy, and not Sacrifice. The Yoke of Chriſt is eaſie, and his Burden light.<note place="margin">
+                  <hi>Plutarch</hi> de Sanit. Tuend.</note> There's a Fable in <hi>Plutarch</hi> of an Ox and a Camel, that were the Fellow-ſervants to one Maſter. The Ox bore the bur<g ref="char:EOLhyphen"/>den alone, the Camel would bear no part of it: But the Ox told him the time was coming that (when he was dead) he muſt bear him and all the burden too. 'Tis ſo with the Body and the Mind; if the Body be over-laid, the Mind is forced <hi>to ſink and ſuffer with it.</hi>
+               <note place="margin">
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</note> We muſt have a care we render not our ſelves unfit for the Service of God; and that we ſhall be in great meaſure, when our Bodies are indiſpoſed.</p>
+            <p n="7">7. I onely add, That if we Faſt for Mortifi<g ref="char:EOLhyphen"/>cation of a Luſt and ill Habit, we muſt repeat
+<pb n="21" facs="tcp:49973:12"/>it frequently, till we have gained the Conqueſt. 'Tis not once taking Phyſick will remove a Chronical diſtemper and ill habit of body; we muſt enter into a courſe and method.<note place="margin">Maimon. Ta<g ref="char:EOLhyphen"/>an. <hi>c.</hi> 4. <hi>ſ.</hi> 18.</note> The like may be ſaid of Faſting, under ſome great Judg<g ref="char:EOLhyphen"/>ment of Famine, Sword or Peſtilence: It will become us to continue it as long as the Judg<g ref="char:EOLhyphen"/>ment remains.</p>
+            <p>Thus I have given you ſome Rules of Faſting: God grant that we may obſerve them, and then we ſhall find our Faſting good Phyſick; which, who-ever takes, muſt obſerve Rules.</p>
+            <p n="4">IV. I proceed now to make ſome Applica<g ref="char:EOLhyphen"/>tion and Inference. And,</p>
+            <p n="1">1. We may hence learn why, after all our Faſting in this Kingdom, we are no better. We are ready to ſay, <hi>Wherefore have we faſted,</hi>
+               <note place="margin">Iſa. 58.3.</note> 
+               <hi>and thou ſeeſt not? Wherefore have we afflicted our ſoul, and thou takeſt no knowledge?</hi> I may well reply in the words of my Text; <hi>Did ye at all faſt unto me, even unto me?</hi> We have abſtained from Meat, and been ſwoln with Pride. We have eaten no Fleſh for ſome Seaſons, but in the mean have devoured one another. We have called for
+<pb n="22" facs="tcp:49973:13"/>Mercy from God, but have not ſhewed it to our Brother. Our Faſting and Prayers have not availed, becauſe we have retained our Vices. We ought to conſider, that Faſting and Prayer, and hearing Sermons, <hi>&amp;c.</hi> are but the <hi>Means,</hi> not the <hi>End</hi> of Religion. The End of it is to make us good and happy, like God here, and bleſſed with him hereafter. We have reſted in the Means, and not attained the End. We have meaſured our Proficiency by our much uſe of the Means, not conſidering that it is the Attain<g ref="char:EOLhyphen"/>ment of the End that concerns us moſt. The main queſtion is not, how often we Faſt, or how many Sermons we have heard; but whe<g ref="char:EOLhyphen"/>ther we be humble and modeſt, patient in af<g ref="char:EOLhyphen"/>fliction, content with our condition, reſigned to God's Will, inflamed with Love to him and to our Brother. Do we live a life of Faith, and are our Hearts in Heaven? We Faſt, ſo did the <hi>Jews</hi> Seventy years, and ſo did the <hi>Phariſees</hi> twice a Week. We pray, and ſo did the <hi>Jewiſh</hi> Hypocrites alſo; But are we humble and mer<g ref="char:EOLhyphen"/>cifull, harmleſs and holy? Are we weaned from the World, and devoted to God and to Reli<g ref="char:EOLhyphen"/>gion? Where ſhall we find any of this Refor<g ref="char:EOLhyphen"/>mation? Who can diſcern that we are either
+<pb n="23" facs="tcp:49973:13"/>more pious toward God, or mercifull to our Brother, more temperate and ſober, chaſt and modeſt?</p>
+            <p n="2">2. We may learn from the great Ends of Faſting what need we have of it. We have cauſe to mourn and afflict our ſelves if ever any people had, whether we reflect upon our paſt Sins, or our preſent Profaneneſs, and the mani<g ref="char:EOLhyphen"/>feſt decay of Piety and Godlineſs among us. We are riſen up in our Father's room a generation of Evil-doers. <hi>Aetas parentum pejor avis tulit nos nequiores.</hi> Our Profaneneſs and Wickedneſs hath been common and daring, Religion been deri<g ref="char:EOLhyphen"/>ded and mocked at, the Holy Scriptures become the ſubject of Droll, and the contempt of them that ſet up for Wits. We have bid defiance to what is Sacred and Holy. We had need mourn for the Abominations that have been committed among us.</p>
+            <p n="3">3. Let us then humble our ſelves before God; and put away every Evil thing; Reform our Lives and our Tempers, and not flatter our ſelves; Nothing leſs than this will ſecure the Bleſſings which we have, or prevent the return of thoſe Evils which we have felt, and had juſt cauſe to fear. And the more effectually to per<g ref="char:EOLhyphen"/>ſwade
+<pb n="24" facs="tcp:49973:14"/>you to this, let me deſire you to conſi<g ref="char:EOLhyphen"/>der,</p>
+            <p n="1">1. The crying and hainous Sins of the Na<g ref="char:EOLhyphen"/>tion. They cry for Vengeance, which we cannot think to prevent, unleſs we Repent and Reform. We cannot but lament the wofull decay of Piety and Vertue. We have been Contemners of God, and of his Holy Worſhip, both publick and pri<g ref="char:EOLhyphen"/>vate. We have made light of the <hi>Sacraments,</hi> and derided the <hi>Myſteries</hi> of Religion. We have pro<g ref="char:EOLhyphen"/>faned the <hi>Holy Name</hi> of God, and broke in upon the <hi>Time</hi> which was incloſed and ſet a part for his Holy Worſhip. The <hi>Oracles</hi> of God have not e<g ref="char:EOLhyphen"/>ſcaped our profane attempts; and we have ſet our Mouths againſt the Heavens; and have been ſo far from the <hi>Power,</hi> that we have hardly re<g ref="char:EOLhyphen"/>tained the <hi>Form</hi> of Godlineſs.</p>
+            <p>We are entertained in our Streets with Horrid <hi>Oaths</hi> and <hi>Execrations,</hi> with the ſight of the In<g ref="char:EOLhyphen"/>temperate reeling to and fro; And in other pla<g ref="char:EOLhyphen"/>ces of Converſation, nothing is more common than playing with the <hi>Sacred</hi> Writ, expoſing the Holy Oracles of God to contempt, and Reviling the Miniſters of Religion, and the burning and ſhining Lights of the World.</p>
+            <pb n="25" facs="tcp:49973:14"/>
+            <p>Mercy and Truth are far from us, and we bite and devour each other. Our Magiſtrates have often born the Sword in vain; and our Preachers of Righteouſneſs have not always been the Examples of it. We have relaxed our ſtricter Diſcipline, loſt our Religious Fervor, and quit<g ref="char:EOLhyphen"/>ted that ſimplicity of Manners, and generoſity and freedom of our Temper which our Engliſh Anceſtors were famous for.</p>
+            <p>Where ſhall we find any Numbers of Men who worſhip God in their Families? That take due care to inſtruct their Children and Servants in the Principles of Religion and Vertue? That govern themſelves, and thoſe under their influ<g ref="char:EOLhyphen"/>ence, with exact regard thereunto? How great a Number are there that live without God in the World? who, like the Judge in the Parable, nei<g ref="char:EOLhyphen"/>ther fear God, nor regard Men? who run coun<g ref="char:EOLhyphen"/>ter to all that is Holy and Good? whoſe Mouths are full of Curſing, and their Right hands are in<g ref="char:EOLhyphen"/>ſtruments of Falſehood? We ſhall ſoon find ſuf<g ref="char:EOLhyphen"/>ficient cauſe of a deep Humiliation, when we con<g ref="char:EOLhyphen"/>ſider the Sins of <hi>others,</hi> and eſpecially our <hi>own:</hi> We have cauſe enough to <hi>faſt</hi> and to <hi>mourn,</hi> that we may divert the Judgments that our Iniquities call for. And God grant our <hi>Humiliation</hi> and Godly Sorrow may bear ſome proportion to the
+<pb n="26" facs="tcp:49973:15"/>hainouſneſs of our Crimes. It appears, from what hath been ſaid, to be our <hi>Duty</hi> to Faſt and Mourn.</p>
+            <p n="2">2. Conſider alſo what it is that lies at ſtake, and depends on the King's Succeſs by Sea and Land: If we do this, it will appear not onely to be our <hi>Duty,</hi> but our <hi>Intereſt</hi> alſo, which generally takes the ſureſt and faſteſt hold on Mankind. It is ve<g ref="char:EOLhyphen"/>ry fit we ſhou'd Faſt at ſuch a time as this. It becomes us to do it when the King expoſeth him<g ref="char:EOLhyphen"/>ſelf to the greateſt dangers. The words of <hi>Uriah</hi> are applicable on this occaſion: <hi>The Ark</hi> (ſays he) <hi>and Iſrael, and Judah abide in Tents, and my Lord Jo<g ref="char:EOLhyphen"/>ab, and the ſervants of my Lord are encamped in the open fields; ſhall I then go into mine houſe to eat, and to drink,</hi> &amp;c? 2 <hi>Sam.</hi> 11.11. We are nearly in<g ref="char:EOLhyphen"/>tereſted in our Succeſs abroad. And what is it that lies at ſtake? 'Tis, in ſhort, the indiſturbed Profeſſion and Exerciſe of our Religion, our Pro<g ref="char:EOLhyphen"/>perty, our Lives, our Laws and Liberty; in a word, our <hi>All:</hi> All that <hi>is</hi> dear to us, and all that <hi>ought</hi> ſo to be. The Conteſt is now, whe<g ref="char:EOLhyphen"/>ther we ſhall be <hi>Free-men</hi> or <hi>Vaſſals;</hi> be governed by <hi>Laws</hi> or <hi>Dragoons:</hi> The ſtruggle is between <hi>Truth</hi> and <hi>Falſehood; Religion</hi> that is <hi>pure</hi> and <hi>un<g ref="char:EOLhyphen"/>defiled,</hi> and <hi>Superſtition</hi> and <hi>Idolatry.</hi>
+            </p>
+            <p>God hath wrought a great Deliverance for us: He hath done it without our <hi>help,</hi> and without
+<pb n="27" facs="tcp:49973:15"/>our <hi>fault:</hi> He hath done it not onely without our <hi>deſert,</hi> but notwithſtanding our <hi>demerits:</hi> We are ſaved whether we would or no: We were reſcued from our Enemies as a brand plucked out of the fire: We are remarkable Monuments of the Mercy of God. Let's ſin no more, leſt a worſe thing come upon us; leſt we be returned back to our former dangers; If we be, we ſhall find our laſt End worſe than our Beginning. And whereas we were once <hi>chaſtiſed</hi> with <hi>Whips,</hi> we muſt expect then to be <hi>ſtung</hi> with <hi>Scorpions.</hi>
+            </p>
+            <p n="3">3. Our Repentance and Amendment is our onely ſecurity. This is the way to procure the favour and bleſſing of Heaven: Our Fleets and Armies are poor things, if God be not with us: Our help is in the Name of the Lord, who made Heaven and Earth: If our Ways pleaſe Him, he will ſoon ſubdue our Enemies, or cauſe them to be at Peace with us: No Weapon form'd againſt us ſhall proſper, if God be for us: And if he be our Enemy, we ſhall not have any cauſe to rely upon the help of our ſtrongeſt Allies, or the greateſt of our Preparations. If we do not Repent, nothing will do us good; our very Succeſs will be but a Snare to us, and our Victory will not prevent our Ruin. Wou'd to God we were duly ſenſible of this.</p>
+            <pb n="28" facs="tcp:49973:16"/>
+            <div type="conclusion">
+               <head>To Conclude.</head>
+               <p>As we wiſh well to our King and Country, as we value our Religion and our Liberty, let us return to our Duty, and break off our Sins by Re<g ref="char:EOLhyphen"/>pentance. Let us reform what is amiſs in our ſelves, and reſtrain thoſe who are under our Charge and Influence. As ever we would have God do any thing for us, let us do what we can for the glory of his Name: Let us uſe all our power for the advancing his Truth, the encoura<g ref="char:EOLhyphen"/>ging his Service, and ſuppreſſing all that Profane<g ref="char:EOLhyphen"/>neſs, and daring Impiety, that hath hitherto ob<g ref="char:EOLhyphen"/>ſtructed the Succeſs of our Forces by Sea and Land.</p>
+               <p>This is what all pious Souls long to ſee, and hope for this Good from the Example and uni<g ref="char:EOLhyphen"/>ted Endeavours of this great Aſſembly: May then all inferior Magiſtrates uſe their Power for the ſuppreſſing of Vice; and may we of the Cler<g ref="char:EOLhyphen"/>gy preach it, and live it down: May all Ma<g ref="char:EOLhyphen"/>ſters of Families ſerve God with their Domeſticks; All Governors of Youth bring them up in the nurture of the Lord; and may every Man of us contribute to the Common ſafety, by turning from his Iniquity: <hi>Which God of his Mercy grant,</hi> &amp;c.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
